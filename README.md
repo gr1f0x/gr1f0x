@@ -70,7 +70,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 <br>
 <br>
 
-## Spotify Live View
+## <img src="./assets/images/music.gif" width ="25"><b> Spotify Live View</b>
 <br>
 
 [![Spotify](https://spotify-now-playing-joshuas-projects-7e65e9fb.vercel.app/api/spotify/?background_color=1a1b27&border_color=ffffff)](https://open.spotify.com/user/21w2gnacle5nyxflms2hxgdpq)
