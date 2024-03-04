@@ -60,7 +60,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 <br>
 <br>
 
-# <picture><img src="./assets/images/stats.gif" width = 50px heigth = 30px></picture> **Stats**
+# <picture><img src="./assets/images/stats.gif" width = 50px></picture> **Stats**
 <br>
 
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gr1f0x&show_icons=true&theme=tokyonight" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,7 +70,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 <br>
 <br>
 
-# <picture><img src="./assets/images/music.gif" width = 90px heigth = 30px></picture> **Stats**
+# <picture><img src="./assets/images/music.gif" width = 50px></picture> **Stats**
 
 <br>
 
