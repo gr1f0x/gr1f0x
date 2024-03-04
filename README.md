@@ -56,7 +56,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 [![ds](https://skillicons.dev/icons?i=git,ai,blender,stackoverflow,idea,notion,unity,vscode,ps,wordpress)](https://skillicons.dev)
 <br>
 
-# Stats
+# <picture><img src="./assets/images/stats.gif" width = 50px></picture> **Stats**
 <br>
 
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gr1f0x&exclude_repo=&layout=compact&langs_count=6&card_width=320&theme=tokyonight" />&nbsp;&nbsp;&nbsp;&nbsp;
