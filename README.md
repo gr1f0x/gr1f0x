@@ -70,7 +70,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 <br>
 <br>
 
-# <picture><img src="./assets/images/music.gif" width = 50px></picture> **Stats**
+# <picture><img src="./assets/images/music.gif" width = 50px></picture> **Spotify Live View**
 
 <br>
 
