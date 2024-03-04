@@ -3,11 +3,14 @@
 [![Hello World, I'm Joshua!](assets/header.gif)](https://github.com/gr1f0x)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
+![](https://komarev.com/ghpvc/?username=gr1f0x&color=a2acd3&style=for-the-badge&label=PROFILE+VIEWS&base=1300&abbreviated=true)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:joshua.abril1646@gmail.com?subject=Hello%20Josh,%20From%20Github) &nbsp; 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/) 
 </div>
+
+
 
 # <picture><img src="./assets/images/about_me.gif" width = 50px></picture> **About me**
 
@@ -62,7 +65,8 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gr1f0x&show_icons=true&theme=tokyonight" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gr1f0x&exclude_repo=&layout=compact&langs_count=6&card_width=320&theme=tokyonight" />&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gr1f0x&theme=tokyonight" alt="gr1f0x" /></a> </p>
+  
 <br>
 <br>
 
