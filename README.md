@@ -10,8 +10,6 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/) 
 </div>
 
-
-
 # <picture><img src="./assets/images/about_me.gif" width = 50px></picture> **About me**
 
 <picture>
@@ -20,7 +18,6 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 </picture>
 
 <br>
-
 
 - Hello, and welcome to my GitHub profile! My name is Joshua Abril, and I am an front-end developer with a passion for creating engaging and user-friendly web applications. 
 
