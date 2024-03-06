@@ -84,5 +84,11 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ![Static Badge](https://img.shields.io/badge/battle.net-white?style=for-the-badge&logo=battle.net&logoColor=white&color=%234381C3) &nbsp;
 -->
 <br>
-<img src="./assets/images/blueline.gif">
+
+#
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1500&color=FF5E5B&multiline=true&random=false&width=465&lines=Donations+would+be+really+appreciated!)](https://git.io/typing-svg)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B0VBW6C)
+
 </div>
