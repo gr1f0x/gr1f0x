@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Hello World, I'm Joshua!](assets/header.gif)](https://github.com/gr1f0x)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/)
 
 ![](https://komarev.com/ghpvc/?username=gr1f0x&color=a2acd3&style=for-the-badge&label=PROFILE+VIEWS&base=1300&abbreviated=true)
 
@@ -60,9 +60,11 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 # <picture><img src="./assets/images/stats.gif" width = 50px></picture> **Stats**
 <br>
 
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gr1f0x&show_icons=true&include_all_commits=false&rank_icon=github&custom_title=Github%20Stats&theme=tokyonight" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gr1f0x&exclude_repo=&layout=compact&langs_count=6&card_width=320&theme=tokyonight" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <p> <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gr1f0x&theme=tokyonight"/> </p>
+ <p> <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gr1f0x&show_icons=true&include_all_commits=false&rank_icon=github&custom_title=Github%20Stats&theme=tokyonight"/>
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gr1f0x&exclude_repo=&layout=compact&langs_count=6&card_width=320&theme=tokyonight" /> </p>
   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gr1f0x&theme=tokyonight" alt="gr1f0x" /></a> </p>
+
   
 <br>
 <br>
