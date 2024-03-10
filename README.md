@@ -3,7 +3,7 @@
 [![Hello World, I'm Joshua!](assets/header.gif)](https://github.com/gr1f0x)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/)
 
-![](https://komarev.com/ghpvc/?username=gr1f0x&color=a2acd3&style=for-the-badge&label=PROFILE+VIEWS&base=1300&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=gr1f0x&color=a2acd3&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:joshua.abril1646@gmail.com?subject=Hello%20Josh,%20From%20Github) &nbsp; 
