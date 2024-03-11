@@ -57,7 +57,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/)
 <br>
 <br>
 
-# <picture><img src="./assets/images/stats.gif" width = 50px></picture> **Stats**
+# <picture><img src="./assets/images/stats.gif" width = 36px></picture> **Stats**
 <br>
 
  <p> <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gr1f0x&theme=tokyonight"/> </p>
@@ -69,7 +69,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/)
 <br>
 <br>
 
-# <picture><img src="./assets/images/music.gif" width = 50px></picture> **Spotify Live View**
+# <picture><img src="./assets/images/music.gif" width = 45px></picture> **Spotify Live View**
 
 <br>
 
@@ -87,7 +87,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/)
 -->
 <br>
 
-#
+# Support
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1500&color=FF5E5B&multiline=true&random=false&width=465&lines=Donations+would+be+really+appreciated!)](https://git.io/typing-svg)
 
