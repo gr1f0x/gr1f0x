@@ -69,12 +69,14 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/)
 <br>
 <br>
 
-# <picture><img src="./assets/images/music.gif" width = 45px></picture> **Spotify Live View**
 <!--
+# <picture><img src="./assets/images/music.gif" width = 45px></picture> **Spotify Live View**
+
 <br>
 
 [![Spotify](https://spotify-now-playing-joshuas-projects-7e65e9fb.vercel.app/api/spotify/?background_color=1a1b27&border_color=ffffff)](https://open.spotify.com/user/21w2gnacle5nyxflms2hxgdpq)
 -->
+
 <!--
 ## 🎮 When I'm AFK:
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
