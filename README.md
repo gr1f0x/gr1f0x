@@ -1,71 +1,169 @@
 <div align="center">
 
 [![Hello World, I'm Joshua!](assets/header.gif)](https://github.com/gr1f0x)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/)
 
-![](https://komarev.com/ghpvc/?username=gr1f0x&color=a2acd3&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+<p align="center">
+  <em>Background GIF by <a href="https://www.pinterest.com/pin/5277724550564022/">Aliciel</a></em>
+</p>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:joshua.abril1646@gmail.com?subject=Hello%20Josh,%20From%20Github) &nbsp; 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Front-End+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+%F0%9F%9A%80;Creating+Amazing+Experiences+%E2%9C%A8)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gr1f0x&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/gr1f0x?style=for-the-badge&color=7B68EE" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/gr1f0x?style=for-the-badge&color=7B68EE" alt="Stars"/>
+</p>
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:joshua.abril1646@gmail.com?subject=Hello%20Josh,%20From%20Github">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/gr1f0x">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
-# <picture><img src="./assets/images/about_me.gif" width = 50px></picture> **About me**
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me
 
-<picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
-</picture>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
 
-- Hello, and welcome to my GitHub profile! My name is Joshua Abril, and I am an front-end developer with a passion for creating engaging and user-friendly web applications. 
+```typescript
+const joshua = {
+  name: "Joshua Abril",
+  role: "Front-End Developer",
+  location: "La Salle",
+  code: ["HTML", "CSS", "JavaScript", "TypeScript"],
+  tools: ["React", "Tailwind", "Git", "Figma"],
+  architecture: ["Responsive Design", "SPA", "PWA"],
+  currentFocus: "Building beautiful user experiences",
+  funFact: "I turn coffee into code ☕",
+};
+```
 
-- Currently, I am currently studying at La Salle, where I am learning and expanding my knowledge in software development.
+<br>
 
-- As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques for creating dynamic and engaging user interfaces.
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Sobre mí
 
-- Through practice and experimentation, I have honed my skills in HTML, CSS.
+```diff
++ 🎯 Front-end developer apasionado por crear experiencias web excepcionales
++ 📚 Estudiante en La Salle, expandiendo conocimientos en desarrollo de software
++ 💡 Desarrollador autodidacta comprometido con las últimas tecnologías
++ 🛠️ Experiencia práctica en HTML, CSS, JavaScript y frameworks modernos
++ 🚀 Siempre buscando nuevos desafíos que impulsen mi crecimiento
++ 🎨 Enfocado en UI/UX y diseño centrado en el usuario
++ 💻 Creando aplicaciones que aportan valor real
+```
 
-- My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
+<br>
 
-- My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-- Thank you for visiting my profile, and I look forward to connecting with you!
+<br>
 
-<br><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> Tech Stack & Skills
 
-<img src="./assets/images/blueline.gif">
-<br><br>
+<br>
 
 <div align="center">
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<!--  
-### Programming Languages:
+### 💻 Frontend Development
 
-[![Python, C#, Java](https://skillicons.dev/icons?i=py,cs,java)](https://skillicons.dev)
--->
-### Front-End Development:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,jquery,webpack,vite&perline=6&theme=dark" />
+</a>
 
-[![HTML, CSS](https://skillicons.dev/icons?i=html,tailwind,css)](https://skillicons.dev)
+### ⚙️ Backend Development
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,cs&perline=5&theme=dark" />
+</a>
 
-### Softwares and Tools:
+### 🗄️ Databases
 
-[![ds](https://skillicons.dev/icons?i=git,ai,blender,stackoverflow,idea,notion,unity,vscode,ps,wordpress)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase&perline=3&theme=dark" />
+</a>
+
+### 🛠️ Tools & DevOps
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,npm,bash,notion,wordpress&perline=8&theme=dark" />
+</a>
+
+### 🎨 Design & Creative
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,unity,sketch&perline=6&theme=dark" />
+</a>
+
+### 📊 Data & Analytics
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,anaconda&perline=4&theme=dark" />
+</a>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Analytics-F59E0B?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Analytics"/>
+</p>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gr1f0x&theme=react-dark&bg_color=0d1117&color=7B68EE&line=7B68EE&point=FFFFFF&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph"/>
+</div>
+
 <br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Statistics
+
 <br>
 
-# <picture><img src="./assets/images/stats.gif" width = 36px></picture> **Stats**
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gr1f0x&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Joshua Abril github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=gr1f0x&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=7B68EE&fire=7B68EE&currStreakLabel=7B68EE&border_radius=10" />
+</div>
+
 <br>
 
- <p> <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gr1f0x&theme=tokyonight"/> </p>
- <p> <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gr1f0x&show_icons=true&include_all_commits=false&rank_icon=github&custom_title=Github%20Stats&theme=tokyonight"/>
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gr1f0x&exclude_repo=burger&layout=compact&langs_count=6&hide=java&card_width=320&theme=tokyonight" /> </p>
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gr1f0x&column=-1&theme=tokyonight" alt="gr1f0x" /></a> </p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr1f0x&layout=compact&hide_border=true&title_color=7B68EE&text_color=c9d1d9&bg_color=0d1117&langs_count=8&exclude_repo=burger&hide=java&border_radius=10" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=gr1f0x&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&title_color=7B68EE&text_color=c9d1d9&bg_color=0d1117&border_radius=10" />
+</div>
 
-  
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gr1f0x&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy" />
+</div>
+
+<br>
+
+<details align="center">
+  <summary><b>💡 More Stats</b></summary>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gr1f0x&theme=github_dark" width="100%"/>
+  <br>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gr1f0x&theme=github_dark"/> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gr1f0x&theme=github_dark"/>
+</details>
+
 <br>
 <br>
 
@@ -89,10 +187,40 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/)
 -->
 <br>
 
-# Support
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" /> Support My Work
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1500&color=FF5E5B&multiline=true&random=false&width=465&lines=Donations+would+be+really+appreciated!)](https://git.io/typing-svg)
+<div align="center">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B0VBW6C)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=If+you+like+my+work%2C+consider+supporting+me!+%E2%98%95;Every+contribution+helps+me+keep+creating+%F0%9F%92%9C;Thank+you+for+your+support!+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-</div>
+<br>
+
+<a href="https://ko-fi.com/B0B0VBW6C">
+  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=000000" alt="Ko-fi"/>
+</a>
+<a href="https://github.com/sponsors/gr1f0x">
+  <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=EA4AAA" alt="GitHub Sponsors"/>
+</a>
+
+<br><br>
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
+
+<p>
+  <i>¿Tienes un proyecto en mente? ¡Trabajemos juntos! 🚀</i>
+</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/gr1f0x)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshua.abril1646@gmail.com)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" width="30"> Thank You!
+
+<p>
+  <i>Thanks for visiting my profile! Have a great day! 😊</i>
+</p>
